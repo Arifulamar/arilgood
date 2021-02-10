@@ -383,7 +383,7 @@ li > a:only-child:after { content: ''; }
 
 /*-- banner --*/
 .banner{
-	background:url(../images/arilkupang.jpg) no-repeat center;
+	background:url(../images/arilpb.jpg) no-repeat center;
 	background-size:cover;
 	-webkit-background-size:cover;
 	-moz-background-size:cover;
