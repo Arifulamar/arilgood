@@ -1,0 +1,12 @@
+
+[package]
+name = "ariful_amar_profile"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+
+
+axum = "0.7"
+tokio = { version = "1.0", features = ["full"] }
+maud = { version = "0.26", features = ["axum"] }
